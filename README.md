@@ -9,7 +9,7 @@
 | Day 02 Question 2  | 088. Merge Sorted Array  | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/88-Merge-Sorted-Array.py) |
 | Day 03 Question 1  | 350. Intersection of Two Arrays II    | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/350-Intersection-of-Two-Arrays-II.py) |
 | Day 03 Question 2  | 121. Best Time to Buy and Sell Stock  | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/121-Best-Time-to-Buy-and-Sell-Stock.py) |
-| Day 04 Question 1 | 566. Reshape the Matrix   |  |
+| Day 04 Question 1 | 566. Reshape the Matrix   | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/566-Reshape-the-Matrix.py) |
 | Day 04 Question 2 | 118. Pascal's Triangle    |  |
 | Day 05 Question 1 | 036. Valid Sudoku         |  |
 | Day 05 Question 2 | 074. Search a 2D Matrix   |  |
