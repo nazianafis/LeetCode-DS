@@ -1,6 +1,5 @@
 # My-Leetcode
 ### 1. Data Structures I
-(Study Plan)
 | Day               | Name                      | Links |
 |-------------------|---------------------------|------------|
 | Day 01 Question 1  | 217. Contains Duplicate  | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/217_Contains_Duplicate.py), [Blog](https://nazianafis.medium.com/217-contains-duplicate-11deb6f066bb) |
@@ -10,7 +9,7 @@
 | Day 03 Question 1  | 350. Intersection of Two Arrays II    | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/350-Intersection-of-Two-Arrays-II.py) |
 | Day 03 Question 2  | 121. Best Time to Buy and Sell Stock  | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/121-Best-Time-to-Buy-and-Sell-Stock.py) |
 | Day 04 Question 1 | 566. Reshape the Matrix   | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/566-Reshape-the-Matrix.py) |
-| Day 04 Question 2 | 118. Pascal's Triangle    |  |
+| Day 04 Question 2 | 118. Pascal's Triangle    | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/118-Pascals-Triangle.py) |
 | Day 05 Question 1 | 036. Valid Sudoku         |  |
 | Day 05 Question 2 | 074. Search a 2D Matrix   |  |
 | Day 06 Question 1 | 387. First Unique Character in a String |  |
