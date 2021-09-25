@@ -1,5 +1,4 @@
-# My-Leetcode
-### 1. Data Structures I
+# 1. Data Structures-I (study plan)
 | S.no. | Day               | Name                      | Links |
 |---|-------------------|---------------------------|------------|
 | 01 | **Day 01** Question 1  | 217. Contains Duplicate  | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/217_Contains_Duplicate.py), [Blog](https://nazianafis.medium.com/217-contains-duplicate-11deb6f066bb) |
