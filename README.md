@@ -2,7 +2,8 @@
 
 <br>
 
-This repository contains Python and Java solutions for [Data Structures-I Study Plan](https://leetcode.com/study-plan/data-structure). You are welcome to make pull requests to contribute more unique Python/Java solutions for the questions given in the table below.
+This repository contains Python and Java solutions for [Data Structures-I Study Plan](https://leetcode.com/study-plan/data-structure). 
+### You are welcome to make pull requests, to contribute other Python/Java solutions for the questions given in the table below.
 
 <br>
 <br>
