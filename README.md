@@ -9,11 +9,11 @@ This repository contains Python and Java solutions for [Data Structures-I Study 
 
 | S.no. | Day | Name | Links |
 |---|-------------------|---------------------------|------------|
-| 01 | **Day 01** Question 1  | 217. Contains Duplicate | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/217_Contains_Duplicate.py), [Blog](https://nazianafis.medium.com/217-contains-duplicate-11deb6f066bb) |
-| 02 | Question 2  | 053. Maximum Subarray | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/53-Maximum-Subarray.py), [Blog](https://nazianafis.medium.com/53-maximum-subarray-61675c4ddaa3)    |
-| 03 | **Day 02** Question 1  | 001. Two Sum | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/1-Two-Sum.py), [Blog](https://nazianafis.medium.com/1-two-sum-39b232cabec4)
-| 04 | Question 2  | 088. Merge Sorted Array  | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/88-Merge-Sorted-Array.py), [Blog](https://nazianafis.medium.com/88-merge-sorted-array-cb588eff9a0) |
-| 05 | **Day 03** Question 1  | 350. Intersection of Two Arrays II    | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/350-Intersection-of-Two-Arrays-II.py), [Blog](https://nazianafis.medium.com/350-intersection-of-two-arrays-ii-2709538bbbf5) |
+| 01 | **Day 01** Question 1  | 217. Contains Duplicate | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/217_Contains_Duplicate.py) |
+| 02 | Question 2  | 053. Maximum Subarray | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/53-Maximum-Subarray.py) |
+| 03 | **Day 02** Question 1  | 001. Two Sum | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/1-Two-Sum.py) |
+| 04 | Question 2  | 088. Merge Sorted Array  | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/88-Merge-Sorted-Array.py) |
+| 05 | **Day 03** Question 1  | 350. Intersection of Two Arrays II    | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/350-Intersection-of-Two-Arrays-II.py) |
 | 06 | Question 2  | 121. Best Time to Buy and Sell Stock  | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/121-Best-Time-to-Buy-and-Sell-Stock.py) |
 | 07 | **Day 04** Question 1 | 566. Reshape the Matrix   | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/566-Reshape-the-Matrix.py) |
 | 08 | Question 2 | 118. Pascal's Triangle    | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/118-Pascals-Triangle.py) |
