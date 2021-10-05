@@ -33,7 +33,7 @@ This repository contains Python and Java solutions for [Data Structures-I Study 
 | 21 | **Day 10** Question 1 | 144. Binary Tree Preorder Traversal | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/144-Binary-Tree-Preorder-Traversal.py) |
 | 22 | Question 2 | 094. Binary Tree Inorder Traversal | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/94-Binary-Tree-Inorder-Traversal.py) |
 | 23 | Question 3 | 145. Binary Tree Postorder Traversal | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/145-Binary-Tree-Postorder-Traversal.py) |
-| 24 | **Day 11** Question 1 | 102. Binary Tree Level Order Traversal |  |
+| 24 | **Day 11** Question 1 | 102. Binary Tree Level Order Traversal | [Python](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/102-Binary-Tree-Level-Order-Traversal.py) |
 | 25 | Question 2 | 104. Maximum Depth of Binary Tree |  |
 | 26 | Question 3 | 101. Symmetric Tree       |  |
 | 27 | **Day 12** Question 1 | 226. Invert Binary Tree   |  |
