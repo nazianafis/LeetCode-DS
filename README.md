@@ -10,7 +10,7 @@ This repository contains Python and Java solutions for [Data Structures-I Study 
 
 | S.no. | Day | Name | Links |
 |---|-------------------|---------------------------|------------|
-| 01 | **Day 01** Question 1  | 217. Contains Duplicate | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/217_Contains_Duplicate.py) |
+| 01 | **Day 01** Question 1  | 217. Contains Duplicate | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/217_Contains_Duplicate.py), [Java](https://github.com/nazianafis/My-LeetCode/blob/main/217_Contains_Duplicate.java) |
 | 02 | Question 2  | 053. Maximum Subarray | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/53-Maximum-Subarray.py) |
 | 03 | **Day 02** Question 1  | 001. Two Sum | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/1-Two-Sum.py) |
 | 04 | Question 2  | 088. Merge Sorted Array  | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/88-Merge-Sorted-Array.py), [Java](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/88-Merge-Sorted-Array.java) |
