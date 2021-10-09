@@ -11,7 +11,7 @@ This repository contains Python and Java solutions for [Data Structures-I Study 
 | S.no. | Day | Name | Links |
 |---|-------------------|---------------------------|------------|
 | 01 | **Day 01** Question 1  | 217. Contains Duplicate | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/217_Contains_Duplicate.py), [Java](https://github.com/nazianafis/My-LeetCode/blob/main/217_Contains_Duplicate.java) |
-| 02 | Question 2  | 053. Maximum Subarray | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/53-Maximum-Subarray.py) |
+| 02 | Question 2  | 053. Maximum Subarray | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/53-Maximum-Subarray.py), [Java](https://github.com/nazianafis/My-LeetCode/blob/main/53-Maximum-Subarray.java) |
 | 03 | **Day 02** Question 1  | 001. Two Sum | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/1-Two-Sum.py) |
 | 04 | Question 2  | 088. Merge Sorted Array  | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/88-Merge-Sorted-Array.py), [Java](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/88-Merge-Sorted-Array.java) |
 | 05 | **Day 03** Question 1  | 350. Intersection of Two Arrays II    | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/350-Intersection-of-Two-Arrays-II.py) |
@@ -19,7 +19,7 @@ This repository contains Python and Java solutions for [Data Structures-I Study 
 | 07 | **Day 04** Question 1 | 566. Reshape the Matrix   | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/566-Reshape-the-Matrix.py), [Java](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/566-Reshape-the-Matrix.java) |
 | 08 | Question 2 | 118. Pascal's Triangle    | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/118-Pascals-Triangle.py) |
 | 09 | **Day 05** Question 1 | 036. Valid Sudoku | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/36-Valid-Sudoku.py) |
-| 10 | Question 2 | 074. Search a 2D Matrix | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/74-Search-a-2D-Matrix.py) |
+| 10 | Question 2 | 074. Search a 2D Matrix | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/74-Search-a-2D-Matrix.py), [Java](https://github.com/nazianafis/LeetCode-DS/blob/main/74-Search-a-2D-Matrix.java) |
 | 11 | **Day 06** Question 1 | 387. First Unique Character in a String | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/387-First-unique-char-in-a-String.py) |
 | 12 | Question 2 | 383. Ransom Note | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/383-Ransom-Note.py) |
 | 13 | Question 3 | 242. Valid Anagram | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/242-Valid-Anagram.py) |
