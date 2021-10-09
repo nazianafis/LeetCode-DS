@@ -15,7 +15,7 @@ This repository contains Python and Java solutions for [Data Structures-I Study 
 | 03 | **Day 02** Question 1  | 001. Two Sum | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/1-Two-Sum.py) |
 | 04 | Question 2  | 088. Merge Sorted Array  | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/88-Merge-Sorted-Array.py), [Java](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/88-Merge-Sorted-Array.java) |
 | 05 | **Day 03** Question 1  | 350. Intersection of Two Arrays II    | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/350-Intersection-of-Two-Arrays-II.py) |
-| 06 | Question 2  | 121. Best Time to Buy and Sell Stock  | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/121-Best-Time-to-Buy-and-Sell-Stock.py) |
+| 06 | Question 2  | 121. Best Time to Buy and Sell Stock  | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/121-Best-Time-to-Buy-and-Sell-Stock.py), [Java](https://github.com/nazianafis/My-LeetCode/blob/main/121-Best-Time-to-Buy-and-Sell-Stock.java) |
 | 07 | **Day 04** Question 1 | 566. Reshape the Matrix   | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/566-Reshape-the-Matrix.py), [Java](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/566-Reshape-the-Matrix.java) |
 | 08 | Question 2 | 118. Pascal's Triangle    | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/118-Pascals-Triangle.py) |
 | 09 | **Day 05** Question 1 | 036. Valid Sudoku | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/36-Valid-Sudoku.py) |
