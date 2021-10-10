@@ -34,11 +34,11 @@ This repository contains Python and Java solutions for [Data Structures-I Study 
 | 22 | Question 2 | 094. Binary Tree Inorder Traversal | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/94-Binary-Tree-Inorder-Traversal.py) |
 | 23 | Question 3 | 145. Binary Tree Postorder Traversal | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/145-Binary-Tree-Postorder-Traversal.py) |
 | 24 | **Day 11** Question 1 | 102. Binary Tree Level Order Traversal | [Python](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/102-Binary-Tree-Level-Order-Traversal.py) |
-| 25 | Question 2 | 104. Maximum Depth of Binary Tree |  |
+| 25 | Question 2 | 104. Maximum Depth of Binary Tree | [Java](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/104-Maximum-Depth-of-Binary-Tree.java) |
 | 26 | Question 3 | 101. Symmetric Tree       |  |
 | 27 | **Day 12** Question 1 | 226. Invert Binary Tree   |  |
 | 28 | Question 2 | 112. Path Sum             |  |
-| 29 | **Day 13** Question 1 | 700. Search in a Binary Search Tree |  |
+| 29 | **Day 13** Question 1 | 700. Search in a Binary Search Tree | [Java](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/700-Search-in-a-Binary-Search-Tree.java) |
 | 30 | Question 2 | 701. Insert into a Binary Search Tree |  |
 | 31 | **Day 14** Question 1 | 098. Validate Binary Search Tree |  |
 | 32 | Question 2 | 653. Two Sum IV - Input is a BST |  |
