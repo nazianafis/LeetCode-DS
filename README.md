@@ -23,21 +23,22 @@ This repository contains solutions for [Data Structures-I Study Plan](https://le
 | 11 | 101 | Symmetric Tree       | [Python](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/101-Symmetric-Tree.py) |
 | 12 | 102 | Binary Tree Level Order Traversal | [Python](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/102-Binary-Tree-Level-Order-Traversal.py) |
 | 13 | 104 | Maximum Depth of Binary Tree | [Java](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/104-Maximum-Depth-of-Binary-Tree.java) |
-| 14 | 118 | Pascal's Triangle    | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/118-Pascals-Triangle.py), [C++](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/118-Pascals-Triangle.cpp) |
-| 15 | 121 | Best Time to Buy and Sell Stock  | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/121-Best-Time-to-Buy-and-Sell-Stock.py), [Java](https://github.com/nazianafis/My-LeetCode/blob/main/121-Best-Time-to-Buy-and-Sell-Stock.java) |
-| 16 | 141 | Linked List Cycle | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/141-Linked-List-Cycle.py) |
-| 17 | 144 | Binary Tree Preorder Traversal | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/144-Binary-Tree-Preorder-Traversal.py) |
-| 18 | 145 | Binary Tree Postorder Traversal | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/145-Binary-Tree-Postorder-Traversal.py) |
-| 19 | 217 | Contains Duplicate | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/217_Contains_Duplicate.py), [Java](https://github.com/nazianafis/My-LeetCode/blob/main/217_Contains_Duplicate.java) |
-| 20 | 226 | Invert Binary Tree | [Python](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/226-Invert-Binary-Tree.py), [C++](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/226-Invert-Binary-Tree.cpp) |
-| 21 | 232 | Implement Queue Using Stacks | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/232-Implement-Queue-using-Stacks.py) |
-| 22 | 235 | Lowest Common Ancester of a BST |  |
-| 23 | 242 | Valid Anagram | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/242-Valid-Anagram.py) |
-| 24 | 350 | Intersection of Two Arrays II    | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/350-Intersection-of-Two-Arrays-II.py) |
-| 25 | 383 | Ransom Note | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/383-Ransom-Note.py) |
-| 26 | 387 | First Unique Character in a String | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/387-First-unique-char-in-a-String.py) |
-| 27 | 566 | Reshape the Matrix   | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/566-Reshape-the-Matrix.py), [Java](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/566-Reshape-the-Matrix.java) |
-| 28 | 653 | Two Sum IV - Input is a BST |  |
-| 29 | 700 | Search in a Binary Search Tree | [Java](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/700-Search-in-a-Binary-Search-Tree.java) |
-| 30 | 701 | Insert into a Binary Search Tree | [Java](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/701-Insert-into-a-Binary-Search-Tree.java) |
+| 14 | 112 | Path Sum | [C++](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/112-Path-Sum.cpp) |
+| 15 | 118 | Pascal's Triangle    | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/118-Pascals-Triangle.py), [C++](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/118-Pascals-Triangle.cpp) |
+| 16 | 121 | Best Time to Buy and Sell Stock  | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/121-Best-Time-to-Buy-and-Sell-Stock.py), [Java](https://github.com/nazianafis/My-LeetCode/blob/main/121-Best-Time-to-Buy-and-Sell-Stock.java) |
+| 17 | 141 | Linked List Cycle | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/141-Linked-List-Cycle.py) |
+| 18 | 144 | Binary Tree Preorder Traversal | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/144-Binary-Tree-Preorder-Traversal.py) |
+| 19 | 145 | Binary Tree Postorder Traversal | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/145-Binary-Tree-Postorder-Traversal.py) |
+| 20 | 217 | Contains Duplicate | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/217_Contains_Duplicate.py), [Java](https://github.com/nazianafis/My-LeetCode/blob/main/217_Contains_Duplicate.java) |
+| 21 | 226 | Invert Binary Tree | [Python](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/226-Invert-Binary-Tree.py), [C++](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/226-Invert-Binary-Tree.cpp) |
+| 22 | 232 | Implement Queue Using Stacks | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/232-Implement-Queue-using-Stacks.py) |
+| 23 | 235 | Lowest Common Ancester of a BST |  |
+| 24 | 242 | Valid Anagram | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/242-Valid-Anagram.py) |
+| 25 | 350 | Intersection of Two Arrays II    | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/350-Intersection-of-Two-Arrays-II.py) |
+| 26 | 383 | Ransom Note | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/383-Ransom-Note.py) |
+| 27 | 387 | First Unique Character in a String | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/387-First-unique-char-in-a-String.py) |
+| 28 | 566 | Reshape the Matrix   | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/566-Reshape-the-Matrix.py), [Java](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/566-Reshape-the-Matrix.java) |
+| 29 | 653 | Two Sum IV - Input is a BST |  |
+| 30 | 700 | Search in a Binary Search Tree | [Java](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/700-Search-in-a-Binary-Search-Tree.java) |
+| 31 | 701 | Insert into a Binary Search Tree | [Java](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/701-Insert-into-a-Binary-Search-Tree.java) |
 
