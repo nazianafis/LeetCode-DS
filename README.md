@@ -8,7 +8,7 @@ This repository contains solutions for [Data Structures-I Study Plan](https://le
 <br>
 <br>
 
-| S.no. | Day | Name | Links |
+| S.no. | Leetcode no. | Name | Links |
 |----|-------------------|---------------------------|------------|
 | 01 | 001 | Two Sum | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/1-Two-Sum.py) |
 | 02 | 020 | Valid Parantheses | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/20-Valid-Parantheses.py) |
