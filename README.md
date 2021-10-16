@@ -29,14 +29,15 @@ This repository contains solutions for [Data Structures-I Study Plan](https://le
 | 17 | 144 | Binary Tree Preorder Traversal | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/144-Binary-Tree-Preorder-Traversal.py) |
 | 18 | 145 | Binary Tree Postorder Traversal | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/145-Binary-Tree-Postorder-Traversal.py) |
 | 19 | 217 | Contains Duplicate | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/217_Contains_Duplicate.py), [Java](https://github.com/nazianafis/My-LeetCode/blob/main/217_Contains_Duplicate.java) |
-| 20 | 232 | Implement Queue Using Stacks | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/232-Implement-Queue-using-Stacks.py) |
-| 21 | 235 | Lowest Common Ancester of a BST |  |
-| 22 | 242 | Valid Anagram | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/242-Valid-Anagram.py) |
-| 23 | 350 | Intersection of Two Arrays II    | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/350-Intersection-of-Two-Arrays-II.py) |
-| 24 | 383 | Ransom Note | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/383-Ransom-Note.py) |
-| 25 | 387 | First Unique Character in a String | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/387-First-unique-char-in-a-String.py) |
-| 26 | 566 | Reshape the Matrix   | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/566-Reshape-the-Matrix.py), [Java](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/566-Reshape-the-Matrix.java) |
-| 27 | 653 | Two Sum IV - Input is a BST |  |
-| 28 | 700 | Search in a Binary Search Tree | [Java](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/700-Search-in-a-Binary-Search-Tree.java) |
-| 29 | 701 | Insert into a Binary Search Tree | [Java](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/701-Insert-into-a-Binary-Search-Tree.java) |
+| 20 | 226 | Invert Binary Tree | [Python](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/226-Invert-Binary-Tree.py), [C++](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/226-Invert-Binary-Tree.cpp) |
+| 21 | 232 | Implement Queue Using Stacks | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/232-Implement-Queue-using-Stacks.py) |
+| 22 | 235 | Lowest Common Ancester of a BST |  |
+| 23 | 242 | Valid Anagram | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/242-Valid-Anagram.py) |
+| 24 | 350 | Intersection of Two Arrays II    | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/350-Intersection-of-Two-Arrays-II.py) |
+| 25 | 383 | Ransom Note | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/383-Ransom-Note.py) |
+| 26 | 387 | First Unique Character in a String | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/387-First-unique-char-in-a-String.py) |
+| 27 | 566 | Reshape the Matrix   | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/566-Reshape-the-Matrix.py), [Java](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/566-Reshape-the-Matrix.java) |
+| 28 | 653 | Two Sum IV - Input is a BST |  |
+| 29 | 700 | Search in a Binary Search Tree | [Java](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/700-Search-in-a-Binary-Search-Tree.java) |
+| 30 | 701 | Insert into a Binary Search Tree | [Java](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/701-Insert-into-a-Binary-Search-Tree.java) |
 
