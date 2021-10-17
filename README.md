@@ -32,7 +32,7 @@ This repository contains solutions for [Data Structures-I Study Plan](https://le
 | 20 | 217 | Contains Duplicate | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/217_Contains_Duplicate.py), [Java](https://github.com/nazianafis/My-LeetCode/blob/main/217_Contains_Duplicate.java) |
 | 21 | 226 | Invert Binary Tree | [Python](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/226-Invert-Binary-Tree.py), [C++](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/226-Invert-Binary-Tree.cpp) |
 | 22 | 232 | Implement Queue Using Stacks | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/232-Implement-Queue-using-Stacks.py) |
-| 23 | 235 | Lowest Common Ancester of a BST |  |
+| 23 | 235 | Lowest Common Ancester of a BST | [C++](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/235-Lowest-Common-Ancester-of-a-BST.cpp) |
 | 24 | 242 | Valid Anagram | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/242-Valid-Anagram.py) |
 | 25 | 350 | Intersection of Two Arrays II    | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/350-Intersection-of-Two-Arrays-II.py) |
 | 26 | 383 | Ransom Note | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/383-Ransom-Note.py) |
