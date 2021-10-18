@@ -39,6 +39,6 @@ This repository contains solutions for [Data Structures-I Study Plan](https://le
 | 27 | 387 | First Unique Character in a String | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/387-First-unique-char-in-a-String.py) |
 | 28 | 566 | Reshape the Matrix   | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/566-Reshape-the-Matrix.py), [Java](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/566-Reshape-the-Matrix.java) |
 | 29 | 653 | Two Sum IV - Input is a BST |  |
-| 30 | 700 | Search in a Binary Search Tree | [Java](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/700-Search-in-a-Binary-Search-Tree.java) |
+| 30 | 700 | Search in a Binary Search Tree | [Python](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/700-Search-in-a-Binary-Search-Tree.py), [Java](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/700-Search-in-a-Binary-Search-Tree.java) |
 | 31 | 701 | Insert into a Binary Search Tree | [Java](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/701-Insert-into-a-Binary-Search-Tree.java) |
 
