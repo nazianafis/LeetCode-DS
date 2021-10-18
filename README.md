@@ -19,7 +19,7 @@ This repository contains solutions for [Data Structures-I Study Plan](https://le
 | 07 | 083 | Remove Duplicates from Sorted List | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/83-Remove-Duplicates-from-Sorted-List.py) |
 | 08 | 088 | Merge Sorted Array  | [Python](https://github.com/nazianafis/My-LeetCode/blob/main/88-Merge-Sorted-Array.py), [Java](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/88-Merge-Sorted-Array.java) |
 | 09 | 094 | Binary Tree Inorder Traversal | [Python](https://github.com/nazianafis/LeetCode-DS/blob/main/94-Binary-Tree-Inorder-Traversal.py) |
-| 10 | 098 | Validate Binary Search Tree |  |
+| 10 | 098 | Validate Binary Search Tree | [Python](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/98-Validate-Binary-Search-Tree.py), [C++](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/98-Validate-Binary-Search-Tree.cpp) |
 | 11 | 101 | Symmetric Tree       | [Python](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/101-Symmetric-Tree.py) |
 | 12 | 102 | Binary Tree Level Order Traversal | [Python](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/102-Binary-Tree-Level-Order-Traversal.py) |
 | 13 | 104 | Maximum Depth of Binary Tree | [Java](https://github.com/nazianafis/LeetCode-Data-Structure-I/blob/main/104-Maximum-Depth-of-Binary-Tree.java) |
